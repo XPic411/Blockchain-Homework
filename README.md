@@ -47,6 +47,6 @@ amount = st.text_input("Amount")
 ### Step 4: Test the PyChain Ledger by Storing Records
 
 ### Block Contents and Hashes
-![Block Content](Block Content.png)
+![Block Content](Block_Content.png)
 ### Blockchain Validation
 ![Validation](Validation.png)
